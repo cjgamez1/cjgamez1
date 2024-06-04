@@ -21,7 +21,7 @@
 
 # Projects
 <p>
-  <a href=""> TCG Market</a> : A trading card marketplace that allows users to showcase their card collection in order to trade with others. It also will include a marketplace.
+  <a href=""> TCG Market</a> [In Development] : A trading card marketplace that allows users to showcase their card collection in order to trade with others. It also will include a marketplace.
 </p>
 <p>
   <a href=""> Climate Data Calculator </a> : 
